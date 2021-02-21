@@ -1,4 +1,4 @@
-# AndroidRansomware
+# Android Ransomware
 Android Ransomware for study case.
 This is just a simple android encryption/decryption tool. It is not perfect and it does not work perfectly. You would need to create some workarounds.
 
